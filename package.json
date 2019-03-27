@@ -1,0 +1,12 @@
+{
+  "name": "bookshop-crawler",
+  "version": "0.0.1",
+  "description": "Bookshop crawler",
+  "main": "crawler.js",
+  "author": "Zofia Tarant",
+  "dependencies": {
+    "request": "latest",
+    "cheerio": "latest",
+    "url-parse": "latest"
+  }
+}
